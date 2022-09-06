@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GandhiGB
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Django and ReactJS
-- 💞️ I’m looking to collaborate on Web based Pyhon Projects
+- 👀 I’m interested in C# and ASP.net
+- 🌱 I’m also currently catching up with new technology in android app development like kotlin and jetpack compose
+- 💞️ I’m looking to collaborate on any Projects
 - 📫 balingkitgandhi@gmail.com / 09265228984
 
 <!---
