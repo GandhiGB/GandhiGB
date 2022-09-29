@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GandhiGB
-- 👀 I’m interested in C# and ASP.net
+- 👀 I’m interested in ASP.net and Native Android App
 - 🌱 I’m also currently catching up with new technology in android app development like kotlin and jetpack compose
 - 💞️ I’m looking to collaborate on any Projects
 - 📫 balingkitgandhi@gmail.com / 09265228984
